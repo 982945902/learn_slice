@@ -1,0 +1,25 @@
+{
+    "import_packages": ["numpy", "pandas"],
+    "variables": [
+      {
+        "name": "x",
+        "value": 10
+      },
+      {
+        "name": "y",
+        "value": 20
+      }
+    ],
+    "functions": [
+      {
+        "name": "add_numbers",
+        "args": ["a", "b"],
+        "body": "return a + b"
+      },
+      {
+        "name": "multiply_numbers",
+        "args": ["a", "b"],
+        "body": "return a * b"
+      }
+    ]
+  }

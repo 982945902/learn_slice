@@ -1,11 +1,17 @@
 llm:
-  provider: ollama
+  # provider: ollama
+  # config:
+  #   model: 'llama2'
+  #   temperature: 0.5
+  #   top_p: 1
+  #   stream: true
+  #   base_url: 'http://localhost:11434'
+  provider: jina
   config:
-    model: 'llama2'
     temperature: 0.5
+    max_tokens: 1000
     top_p: 1
-    stream: true
-
+    stream: false
 embedder:
   provider: huggingface
   config:

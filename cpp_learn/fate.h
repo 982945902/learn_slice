@@ -183,6 +183,8 @@ class Fate {
 #endif
 
   std::unordered_map<std::string, PyFuncObj> pyfuncMap_;
+#else
+  std::unordered_map<std::string, std::string> place_holder_;
 #endif
  public:
   template <typename FUNC>
