@@ -1,0 +1,9 @@
+/Users/lishuo121/workspace/learn_slice/cython/vs/target/debug/deps/libserde_path_to_error-73a844538c438863.rmeta: /Users/lishuo121/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/lib.rs /Users/lishuo121/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/de.rs /Users/lishuo121/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/path.rs /Users/lishuo121/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/ser.rs /Users/lishuo121/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/wrap.rs
+
+/Users/lishuo121/workspace/learn_slice/cython/vs/target/debug/deps/serde_path_to_error-73a844538c438863.d: /Users/lishuo121/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/lib.rs /Users/lishuo121/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/de.rs /Users/lishuo121/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/path.rs /Users/lishuo121/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/ser.rs /Users/lishuo121/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/wrap.rs
+
+/Users/lishuo121/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/lib.rs:
+/Users/lishuo121/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/de.rs:
+/Users/lishuo121/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/path.rs:
+/Users/lishuo121/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/ser.rs:
+/Users/lishuo121/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/wrap.rs:
